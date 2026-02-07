@@ -143,8 +143,8 @@ const META_ACCESS_TOKEN = process.env.META_ACCESS_TOKEN;
 const ADMIN_KEY = process.env.ADMIN_KEY || 'secret123';
 
 // Default Pixel & LP (fallback)
-const DEFAULT_META_PIXEL_ID = '1175065577950871';
-const DEFAULT_PUBLIC_LP_URL = 'https://sheikhbrothers.netlify.app/';
+const DEFAULT_META_PIXEL_ID = '1571447140558063';
+const DEFAULT_PUBLIC_LP_URL = 'https://roaring-zabaione-741eee.netlify.app/';
 
 const TELEGRAM_API = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
 const PORT = process.env.PORT || 3000;
